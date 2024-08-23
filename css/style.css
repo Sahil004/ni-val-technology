@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box !important;
+    font-family: var(--primaryFontFamily);
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+a {
+    color: inherit;
+    text-decoration: none !important;
+}
+
+.navbar-brand img {
+    width: 180px;
+}
